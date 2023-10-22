@@ -8,6 +8,7 @@ public class ApiTest01 {
 
     @Test
     public void test04(){
+
         Deque deque=new ArrayDeque<String>();
         deque.addFirst("a");
         deque.addFirst("b");
